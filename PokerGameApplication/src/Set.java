@@ -17,7 +17,7 @@ import java.util.Random;
 public class Set {
 
     /**
-     * Constructor to tell the list of Cards in the Set.
+     * Constructor to tell the list of Cards in the given Set.
      *
      * @since 1.0
      */
