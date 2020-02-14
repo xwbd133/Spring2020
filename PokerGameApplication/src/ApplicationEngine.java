@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @author Xing Wei
  * @version 1.0 1/20/2020
  * @version 2.0 1/23/2020
+ * @copyright real_xw
  * ----------------------------------------- All rights reserved. ------------------------------------------------------
  */
 public class ApplicationEngine {

@@ -7,6 +7,7 @@
  * @version 2.0 1/19/2020
  * @version 2.1 1/20/2020
  * @version 3.0 1/23/2020
+ * @copyright real_xw
  * ----------------------------------------- All rights reserved. ------------------------------------------------------
  */
 public class Library {
